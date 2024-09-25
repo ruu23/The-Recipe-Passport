@@ -42,6 +42,7 @@ const filterRecipes = (recipes, filters) => {
     );
   });
 };
+
 ## Installation
 
 To set up this project locally, follow these steps:
